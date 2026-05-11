@@ -1,5 +1,10 @@
 # UpPromote Affiliate Dashboard — Demo
 
+## Live demo
+
+https://upwork-demo-9-affiliate-app-integration-developer-hwzozx13x.vercel.app
+
+
 A focused Next.js (App Router) prototype that demonstrates the first milestone
 of an UpPromote integration: ingesting affiliate data into a clean dashboard
 through **two paths** — CSV import and a stubbed API sync.
