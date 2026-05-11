@@ -2,7 +2,7 @@
 
 ## Live demo
 
-https://upwork-demo-9-affiliate-app-integration-developer-hwzozx13x.vercel.app
+https://upwork-demo-9-affiliate-app-integra.vercel.app
 
 
 A focused Next.js (App Router) prototype that demonstrates the first milestone
